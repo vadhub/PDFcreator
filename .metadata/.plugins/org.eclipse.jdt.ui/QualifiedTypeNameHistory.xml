@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.DocumentException"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.log.SysoLogger"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Font.FontFamily"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Element"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.FontFactory"/>
+<fullyQualifiedTypeName name="java.awt.Font"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Font"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.BaseFont"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Image"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfImage"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfName"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfIndirectReference"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfReader"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfStamper"/>
+<fullyQualifiedTypeName name="org.jodconverter.office.OfficeManager"/>
+<fullyQualifiedTypeName name="org.jodconverter.OfficeDocumentConverter"/>
+<fullyQualifiedTypeName name="org.jodconverter.office.DefaultOfficeManagerBuilder"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+</qualifiedTypeNameHistroy>
