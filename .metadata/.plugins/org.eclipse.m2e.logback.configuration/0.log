@@ -1983,3 +1983,4 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2019-06-21 15:18:16,441 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-06-21 15:18:16,441 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
 2019-06-21 15:18:16,441 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 15:18:16,441 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
