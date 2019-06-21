@@ -11,10 +11,10 @@ import com.documents4j.api.IConverter;
 import com.documents4j.job.LocalConverter;
 
 public class convertEXEl {
-	 public void PDFconvertor(File inputWord, File outputFile){
-	        try  {
-	            InputStream docxInputStream = new FileInputStream(inputWord);
-	            OutputStream outputStream = new FileOutputStream(outputFile);
+	 public void PDFconvertor(String inputWord, String outputFile){
+	        try {
+	            InputStream docxInputStream = new FileInputStream(new File(inputWord));
+	            OutputStream outputStream = new FileOutputStream(new File(outputFile));
 	            
 	            IConverter converter = LocalConverter.builder().build();
 	            

@@ -1,5 +1,8 @@
 package com.vg.pdf;
 
+import java.io.File;
+
+
 import java.io.IOException;
 
 public class Starter {
@@ -10,11 +13,13 @@ public class Starter {
 	public static final String DOCS = "C://Users/Вадим/Desktop/project.docx";
 	
 	static ConvertWord cw = new ConvertWord();
-	static Reconverter rec = new Reconverter();
+	
 
 	public static void main(String[] args) throws IOException {
 		
 		cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
-	    }
+	    }	        
 	
 	}
+	
+	
