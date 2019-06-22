@@ -14,9 +14,8 @@ public class Starter {
 
 	public static void main(String[] args) throws IOException {
 		
-		//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
-		
-		rec.reconvertor("C://Users/Вадим/Desktop/Hello.pdf", "C://Users/Вадим/Desktop/OPa.docx");
+		cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
+		//rec.reconvertor("C://Users/Вадим/Desktop/Hello.pdf", "C://Users/Вадим/Desktop/OPa.docx");
 	    }
 	
 	}

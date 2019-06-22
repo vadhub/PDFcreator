@@ -42,4 +42,5 @@
 <fullyQualifiedTypeName name="com.documents4j.api.DocumentType"/>
 <fullyQualifiedTypeName name="com.vg.pdf.ConvertWord"/>
 <fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.vg.pdf.Reconverter"/>
 </qualifiedTypeNameHistroy>
