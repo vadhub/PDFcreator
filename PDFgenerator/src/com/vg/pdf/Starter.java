@@ -6,8 +6,8 @@ public class Starter {
 	
 	public static final String TEXT = "C://Users/Вадим/Desktop/tu.txt";
 	public static final String IMAGE = "C://Users/Вадим/Desktop/1.gif";
-	public static final String DEST = "C://Users/Вадим/Desktop/HelloWorld.pdf";
-	public static final String DOCS = "C://Users/Вадим/Desktop/держу в курсе.docx";
+	public static final String DEST = "C://Users/Вадим/Desktop/Hello.pdf";
+	public static final String DOCS = "C://Users/Вадим/Desktop/test.docx";
 	
 	static ConvertWord cw = new ConvertWord();
 	static Reconverter rec = new Reconverter();
@@ -16,7 +16,8 @@ public class Starter {
 		
 		//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
 		
-		rec.reconvertor("C://Users/Вадим/Desktop/Hello.pdf", "C://Users/Вадим/Desktop/OPa.docx");
+		//rec.reconvertor("C://Users/Вадим/Desktop/Hello.pdf", "C://Users/Вадим/Desktop/Oa.docx");
+		rec.reconvertor(DEST, DOCS);
 	    }
 	
 	}

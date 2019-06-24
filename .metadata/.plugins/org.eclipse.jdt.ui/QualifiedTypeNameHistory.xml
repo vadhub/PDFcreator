@@ -28,7 +28,6 @@
 <fullyQualifiedTypeName name="org.omg.CORBA_2_3.portable.InputStream"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
 <fullyQualifiedTypeName name="org.w3c.dom.ranges.Range"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
 <fullyQualifiedTypeName name="org.apache.poi.poifs.filesystem.POIFSFileSystem"/>
 <fullyQualifiedTypeName name="java.io.OutputStream"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
@@ -39,8 +38,12 @@
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="com.documents4j.api.IConverter"/>
 <fullyQualifiedTypeName name="com.documents4j.job.LocalConverter"/>
-<fullyQualifiedTypeName name="com.documents4j.api.DocumentType"/>
 <fullyQualifiedTypeName name="com.vg.pdf.ConvertWord"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="com.vg.pdf.Reconverter"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Future"/>
+<fullyQualifiedTypeName name="com.documents4j.api.DocumentType"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.parser.TextExtractionStrategy"/>
 </qualifiedTypeNameHistroy>

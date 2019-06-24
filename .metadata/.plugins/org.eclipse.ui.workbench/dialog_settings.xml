@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="-66" key="DIALOG_X_ORIGIN"/>
+		<item value="-127" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="760" key="dialogHeight"/>
 		<item value="1440" key="dialogWidth"/>
@@ -17,5 +21,9 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
+	</section>
+	<section name="ImportExportAction">
+	</section>
+	<section name="FileSystemImportWizard">
 	</section>
 </section>
