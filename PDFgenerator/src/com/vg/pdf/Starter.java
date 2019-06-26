@@ -1,23 +1,33 @@
 package com.vg.pdf;
 
+import java.io.File;
 import java.io.IOException;
+
+import org.apache.pdfbox.pdmodel.PDDocument;
+
 
 public class Starter {
 	
 	public static final String TEXT = "C://Users/Вадим/Desktop/tu.txt";
 	public static final String IMAGE = "C://Users/Вадим/Desktop/1.gif";
-	public static final String DEST = "C://Users/Вадим/Desktop/Hello.pdf";
-	public static final String DOCS = "C://Users/Вадим/Desktop/test.docx";
+	public static final String DEST = "C://Users/Вадим/Desktop/wireshark.pdf";
+	public static final String DOCS = "C://Users/Вадим/Desktop/7.docx";
 	
 	static ConvertWord cw = new ConvertWord();
-	static Reconverter rec = new Reconverter();
-
+	static ConvertIMG ci = new ConvertIMG();
+	static ReconverterIMG rec = new ReconverterIMG();
+	
 	public static void main(String[] args) throws IOException {
 		
 		//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
+		//ci.imageConert(DEST, "C://Users/Вадим/Desktop/2.jpg");
+		int i = 0;
+		PDDocument doc = PDDocument.load(new File(DEST));
+		while(i<doc.getNumberOfPages()){
+				rec.reconvertor(DEST, "C://Users/Вадим/Desktop/vasya/"+i+".jpg", i);
+				i++;
+		}
 		
-		//rec.reconvertor("C://Users/Вадим/Desktop/Hello.pdf", "C://Users/Вадим/Desktop/Oa.docx");
-		rec.reconvertor(DEST, DOCS);
 	    }
 	
 	}

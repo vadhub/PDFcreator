@@ -16,10 +16,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="B:/commons-compress-1.18.jar"/>
-	<classpathentry kind="lib" path="B:/poi-4.1.0.jar"/>
-	<classpathentry kind="lib" path="B:/poi-ooxml-4.1.0.jar"/>
-	<classpathentry kind="lib" path="B:/xmlbeans-3.1.0.jar"/>
-	<classpathentry kind="lib" path="B:/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="B:/pdfbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="B:/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="B:/fontbox-2.0.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

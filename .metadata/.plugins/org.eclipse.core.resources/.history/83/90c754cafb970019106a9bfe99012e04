@@ -1,0 +1,14 @@
+package com.vg.pdf;
+
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.pdfbox.pdmodel.PDDocument;
+
+public class Reconverter {
+	 public void reconvertor(String inputWord, String outputFile) throws IOException{
+		 File f = new File(inputWord);
+		 PDDocument doc = PDDocument.load(f);
+		 
+	 }
+}
