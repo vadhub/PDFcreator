@@ -5,8 +5,6 @@ import java.io.IOException;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 
-import com.vg.tools.ParsePages;
-
 
 public class Starter {
 	
@@ -17,14 +15,12 @@ public class Starter {
 	
 	static ConvertWord cw = new ConvertWord();
 	static ConvertIMG ci = new ConvertIMG();
-	static ParsePages pp = new ParsePages();
+	
 	
 	public static void main(String[] args) throws IOException {
 		
-			//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
-			//ci.imageConert(DEST, "C://Users/Вадим/Desktop/2.jpg");
-		
-			pp.ParserImage(DEST, "C://Users/Вадим/Desktop/vasya/");
+		//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
+		//ci.imageConert(DEST, "C://Users/Вадим/Desktop/2.jpg");
 		
 		
 	    }

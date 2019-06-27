@@ -21,10 +21,8 @@ public class Starter {
 	
 	public static void main(String[] args) throws IOException {
 		
-			//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
-			//ci.imageConert(DEST, "C://Users/Вадим/Desktop/2.jpg");
-		
-			pp.ParserImage(DEST, "C://Users/Вадим/Desktop/vasya/");
+		//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
+		//ci.imageConert(DEST, "C://Users/Вадим/Desktop/2.jpg");
 		
 		
 	    }
