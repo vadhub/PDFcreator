@@ -1,18 +1,33 @@
 package com.vg.pdf;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
 
-import com.google.common.base.Converter;
-import com.itextpdf.text.Document;
+import com.documents4j.api.DocumentType;
+import com.documents4j.api.IConverter;
+import com.documents4j.job.LocalConverter;
 import com.itextpdf.text.DocumentException;
-import com.itextpdf.text.pdf.PdfWriter;
 
 public class ConvertHTML {
 	public void convertor(String inputWord, String outputFile) throws FileNotFoundException, DocumentException{
-		Document d = new Document();
-		PdfWriter wrt = PdfWriter.getInstance(d, new FileOutputStream(inputWord));
-		d.open();
+		try  {
+            InputStream docxInputStream = new FileInputStream(new File(inputWord));
+            OutputStream outputStream = new FileOutputStream(new File(outputFile));
+            
+            IConverter converter = LocalConverter.builder().build();
+            
+            converter.convert(docxInputStream).as(DocumentType.MHTML).to(outputStream).as(DocumentType.PDF).execute();
+            outputStream.close();
+            
+            System.out.println("well done");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
 		
 		
 	}

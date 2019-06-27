@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.log.SysoLogger"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-<fullyQualifiedTypeName name="java.io.BufferedReader"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Font.FontFamily"/>
-<fullyQualifiedTypeName name="java.io.FileReader"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Element"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.FontFactory"/>
 <fullyQualifiedTypeName name="java.awt.Font"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Font"/>
@@ -16,7 +7,6 @@
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfImage"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfName"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfIndirectReference"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfStamper"/>
 <fullyQualifiedTypeName name="org.jodconverter.office.OfficeManager"/>
 <fullyQualifiedTypeName name="org.jodconverter.OfficeDocumentConverter"/>
 <fullyQualifiedTypeName name="org.jodconverter.office.DefaultOfficeManagerBuilder"/>
@@ -36,28 +26,38 @@
 <fullyQualifiedTypeName name="com.documents4j.api.DocumentType"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy"/>
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFDocument"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfReader"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.parser.PdfReaderContentParser"/>
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFParagraph"/>
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFRun"/>
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.BreakType"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
-<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="com.google.common.base.Converter"/>
 <fullyQualifiedTypeName name="org.w3c.dom.html.HTMLCollection"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.parser.TextExtractionStrategy"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.hyphenation.SimplePatternParser"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Image"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="com.google.common.util.concurrent.Futures"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.pdfparser.PDFParser"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.util.PDFTextStripper"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSDocument"/>
-<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.util.PDFImageWriter"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPage"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.PDFReader"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.rendering.PDFRenderer"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="com.vg.pdf.ConvertIMG"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfReader"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfStamper"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfDocument"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+<fullyQualifiedTypeName name="java.io.File"/>
 </qualifiedTypeNameHistroy>
