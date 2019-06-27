@@ -5,7 +5,7 @@ import java.io.IOException;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 
-import com.vg.repdf.ReconverterIMG;
+import com.vg.pdf.ReconverterIMG;
 
 public class ParsePages {
 	private static	ReconverterIMG rec = new ReconverterIMG();
