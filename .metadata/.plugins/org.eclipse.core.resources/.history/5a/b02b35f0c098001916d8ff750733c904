@@ -1,0 +1,17 @@
+package com.vg.tools;
+
+import java.io.File;
+
+import org.apache.pdfbox.pdmodel.PDDocument;
+
+public class ParsePages {
+	public void ParserImage(String dest){
+		int i = 0;
+		PDDocument doc = PDDocument.load(new File(dest));
+		while(i<doc.getNumberOfPages()){
+				rec.reconvertor(dest, "C://Users/Вадим/Desktop/vasya/"+i+".jpg", i);
+				i++;
+		}
+		
+	}
+}
