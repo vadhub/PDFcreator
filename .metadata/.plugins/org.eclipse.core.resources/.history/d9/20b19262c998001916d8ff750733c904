@@ -25,8 +25,8 @@ public class PDFtest {
 		fos.write(buf);
 		
 		doc.close();
-		fos.flush();
-		fos.close();
+		
+		
 		System.out.println("WELL DONE!!!!");
 	
 	}

@@ -20,13 +20,9 @@ public class PDFtest {
 		
 		FileOutputStream fos = new FileOutputStream("C://Users/Вадим/Desktop/Hello.txt");
 		
-		byte[] buf = text.getBytes();
-		
-		fos.write(buf);
-		
 		doc.close();
-		fos.flush();
-		fos.close();
+		
+		
 		System.out.println("WELL DONE!!!!");
 	
 	}
