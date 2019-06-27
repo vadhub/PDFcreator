@@ -1,0 +1,15 @@
+package com.vg.pdf;
+
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.pdmodel.PDPageTree;
+
+public class PDFtest {
+	public static void main(String[] args) throws IOException{
+		PDDocument doc = PDDocument.load(new File("C://Users/Вадим/Desktop/wireshark.pdf"));
+		PDPageTree list = doc.getPages();
+	
+	}
+}

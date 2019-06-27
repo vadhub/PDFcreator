@@ -28,12 +28,9 @@ public class PDFtest {
 					String fileinput = "C://Users/Вадим/Desktop/vasya/"+i+".jpg";
 					ImageIO.write(im.getImage(), "jpg", new File("C://Users/Вадим/Desktop/wireshark.pdf"));
 					i++;
-					System.out.println("well done");
 				}
 			}
 		}
-		
-		System.out.println("WELL DONE!!!!");
 	
 	}
 }
