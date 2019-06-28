@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.itextpdf.text.FontFactory"/>
-<fullyQualifiedTypeName name="java.awt.Font"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Font"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.BaseFont"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfImage"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfName"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfIndirectReference"/>
-<fullyQualifiedTypeName name="org.jodconverter.office.OfficeManager"/>
 <fullyQualifiedTypeName name="org.jodconverter.OfficeDocumentConverter"/>
 <fullyQualifiedTypeName name="org.jodconverter.office.DefaultOfficeManagerBuilder"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.codec.Base64.InputStream"/>
@@ -46,18 +38,26 @@
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.util.PDFImageWriter"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPage"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.PDFReader"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.rendering.PDFRenderer"/>
 <fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
-<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
 <fullyQualifiedTypeName name="com.vg.pdf.ConvertIMG"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfReader"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfStamper"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
-<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfDocument"/>
+<fullyQualifiedTypeName name="com.vg.tools.ParsePages"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPageTree"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
 <fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPage"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDResources"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSName"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.graphics.PDXObject"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.vg.repdf.ReconvertOnlyText"/>
 </qualifiedTypeNameHistroy>

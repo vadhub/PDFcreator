@@ -11,6 +11,8 @@ import org.apache.pdfbox.rendering.PDFRenderer;
 
 public class ReconverterIMG {
 	 public void reconvertor(String inputWord, String outputFile, int page) throws IOException{
+		 
+		 //rec full page
 		 File f = new File(inputWord);
 		 PDDocument doc = PDDocument.load(f);
 		 

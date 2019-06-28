@@ -8,9 +8,13 @@ import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
 public class ReconvertOnlyText {
+
 	public void reconvert(String input, String output) throws IOException{
 		PDDocument doc = PDDocument.load(new File(input));
+		
 		PDFTextStripper ts = new PDFTextStripper();
+		ts.setLineSeparator("\n");
+		ts.setAddMoreFormatting(true);
 		int numbOfPage = doc.getNumberOfPages();
 		ts.setStartPage(1);
 		ts.setEndPage(numbOfPage);
@@ -20,6 +24,7 @@ public class ReconvertOnlyText {
 		
 		FileOutputStream fos = new FileOutputStream(output);
 		
+		//formating text
 		byte[] buf = text.getBytes();
 		
 		fos.write(buf);
