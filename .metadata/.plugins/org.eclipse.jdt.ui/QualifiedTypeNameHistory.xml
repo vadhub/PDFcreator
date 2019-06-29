@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.jodconverter.OfficeDocumentConverter"/>
-<fullyQualifiedTypeName name="org.jodconverter.office.DefaultOfficeManagerBuilder"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.codec.Base64.InputStream"/>
-<fullyQualifiedTypeName name="org.omg.CORBA.portable.InputStream"/>
-<fullyQualifiedTypeName name="org.omg.CORBA_2_3.portable.InputStream"/>
-<fullyQualifiedTypeName name="org.w3c.dom.ranges.Range"/>
-<fullyQualifiedTypeName name="org.apache.poi.poifs.filesystem.POIFSFileSystem"/>
-<fullyQualifiedTypeName name="java.io.OutputStream"/>
 <fullyQualifiedTypeName name="java.awt.font.NumericShaper.Range"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.codec.Base64.OutputStream"/>
@@ -22,7 +14,6 @@
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFParagraph"/>
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFRun"/>
 <fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.BreakType"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
 <fullyQualifiedTypeName name="com.google.common.base.Converter"/>
 <fullyQualifiedTypeName name="org.w3c.dom.html.HTMLCollection"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.parser.TextExtractionStrategy"/>
@@ -31,9 +22,7 @@
 <fullyQualifiedTypeName name="com.itextpdf.text.Image"/>
 <fullyQualifiedTypeName name="com.google.common.util.concurrent.Futures"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.pdfparser.PDFParser"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.util.PDFTextStripper"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSDocument"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
@@ -49,15 +38,26 @@
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfDocument"/>
 <fullyQualifiedTypeName name="com.vg.tools.ParsePages"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPageTree"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
-<fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPage"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDResources"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSName"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.graphics.PDXObject"/>
 <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject"/>
 <fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
-<fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="com.vg.repdf.ReconvertOnlyText"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPageContentStream"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPage"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfLayer"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdfparser.PDFParser"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.io.RandomAccessRead"/>
+<fullyQualifiedTypeName name="java.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSDocument"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
+<fullyQualifiedTypeName name="javax.swing.text.Document"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
 </qualifiedTypeNameHistroy>

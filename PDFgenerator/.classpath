@@ -19,6 +19,6 @@
 	<classpathentry kind="lib" path="B:/pdfbox-2.0.3.jar"/>
 	<classpathentry kind="lib" path="B:/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="B:/fontbox-2.0.3.jar"/>
-	<classpathentry kind="lib" path="B:/aspose-pdf-2.9.0-jdk16.jar"/>
+	<classpathentry kind="lib" path="B:/Spire.Pdf.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
