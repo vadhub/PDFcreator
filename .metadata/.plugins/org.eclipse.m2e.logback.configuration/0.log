@@ -4109,3 +4109,94 @@ java.lang.IllegalArgumentException: Path must include project and resource name:
 2019-06-30 11:31:45,689 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-06-30 11:31:45,689 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
 2019-06-30 11:31:45,689 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:31:45,689 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:36:36,602 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:36:36,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:36:36,602 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:36:36,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:36:48,224 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:36:48,224 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:36:48,224 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:36:48,224 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:36:53,372 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:36:53,372 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:36:53,372 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:36:53,372 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:38:19,267 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:38:19,267 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:38:19,267 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:38:19,267 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:39:49,499 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:39:49,499 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:39:49,499 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:39:49,499 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:41:24,066 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:41:24,066 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:41:24,066 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:41:24,066 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:43:08,566 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:43:08,566 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:43:08,566 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:43:08,566 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:44:08,415 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:44:08,415 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:44:08,415 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:44:08,415 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:45:32,561 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:45:32,561 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:45:32,561 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:45:32,561 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:46:28,727 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:46:28,727 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:46:28,727 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:46:28,742 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:47:23,513 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:47:23,529 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:47:23,529 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:47:23,529 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:48:07,550 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:48:07,550 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:48:07,550 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:48:07,550 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:48:59,851 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:48:59,851 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:48:59,866 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:48:59,866 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:49:42,132 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:49:42,132 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:49:42,132 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:49:42,147 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:50:03,836 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.5.13/itextpdf-5.5.13-sources.jar
+2019-06-30 11:50:18,594 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.5.13/itextpdf-5.5.13-sources.jar
+2019-06-30 11:50:18,703 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.itextpdf:itextpdf:5.5.13
+2019-06-30 11:50:18,906 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:50:18,906 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:50:18,921 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:50:18,921 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:50:29,529 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:50:29,529 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:50:29,529 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:50:29,529 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:50:56,788 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:50:56,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:50:56,788 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:50:56,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:51:34,935 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:51:34,935 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:51:34,935 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:51:34,935 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:53:11,169 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:53:11,169 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:53:11,169 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:53:11,169 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:54:00,700 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:54:00,700 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:54:00,700 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:54:00,700 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:55:28,612 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:55:28,612 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:55:28,612 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:55:28,612 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\test\resources
+2019-06-30 11:55:35,523 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-30 11:55:35,523 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Вадим\workspace\PDFgenerator\PDFgenerator\src\main\resources
+2019-06-30 11:55:35,523 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!

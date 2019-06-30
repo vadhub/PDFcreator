@@ -52,7 +52,7 @@ public class convertPPT {
 		        List<XSLFSlide> slide = ppt.getSlides();
 		        
 		        //get page size for pdf document
-		        pdfDocument.setPageSize(new Rectangle((float) pgsize.getWidth(), (float) pgsize.getHeight()));
+		        pdfDocument.setPageSize(new Rectangle((float) pgsize.getWidth(), (float) pgsize.getHeight()*10));
 		        pdfWriter.open();
 		        pdfDocument.open();
 		        for (int i = 0; i < slide.size(); i++) {

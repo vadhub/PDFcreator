@@ -28,8 +28,8 @@ public class Starter {
 			//cw. PDFconvertor(DOCS, "C://Users/Вадим/Desktop/Hello.pdf");
 			//ci.imageConert(DEST, "C://Users/Вадим/Desktop/2.jpg"); Габдерахманов В.М. - проект
 			//rot.reconvert("C://Users/Вадим/Desktop/Hello.pdf", "C://Users/Вадим/Desktop/vasya/test.txt");
-			rtd.convert("C://Users/Вадим/Desktop/project.pdf", "C://Users/Вадим/Desktop/vasya/tes.docx");
-			//ppd.PDFconvertor("C://Users/Вадим/Desktop/project.pptx", "C://Users/Вадим/Desktop/project.pdf", ".pptx");
+			//rtd.convert("C://Users/Вадим/Desktop/Габдерахманов В.М. - проект.pdf", "C://Users/Вадим/Desktop/vasya/texs.docx");
+			ppd.PDFconvertor("C://Users/Вадим/Desktop/project.pptx", "C://Users/Вадим/Desktop/project.pdf", ".pptx");
 			
 			//pp.ParserImage(DEST, "C://Users/Вадим/Desktop/vasya/");
 	    }

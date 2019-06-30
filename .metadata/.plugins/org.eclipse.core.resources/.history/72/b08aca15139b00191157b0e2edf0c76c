@@ -52,7 +52,7 @@ public class convertPPT {
 		        List<XSLFSlide> slide = ppt.getSlides();
 		        
 		        //get page size for pdf document
-		        pdfDocument.setPageSize(new Rectangle((float) pgsize.getWidth(), (float) pgsize.getHeight()));
+		        pdfDocument.setPageSize(new Rectangle((float) pgsize.getWidth()*2, (float) pgsize.getHeight()*2));
 		        pdfWriter.open();
 		        pdfDocument.open();
 		        for (int i = 0; i < slide.size(); i++) {
@@ -62,7 +62,7 @@ public class convertPPT {
 		            Graphics2D graphics = img.createGraphics();
 		            graphics.setTransform(at);
 
-		            graphics.setPaint(Color.WHITE);
+		            graphics.setPaint(Color.white);
 		            graphics.fill(new Rectangle2D.Float(0, 0, pgsize.width, pgsize.height));
 		            slide.get(i).draw(graphics);
 		            graphics.getPaint();
