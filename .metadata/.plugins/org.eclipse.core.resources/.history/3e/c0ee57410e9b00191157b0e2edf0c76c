@@ -1,0 +1,17 @@
+package com.vg.pdf;
+
+import com.spire.pdf.FileFormat;
+import com.spire.pdf.PdfDocument;
+
+public class convertPPT {
+	public void PDFconvertor(String inputWord, String outputFile){
+		
+		PdfDocument doc = new PdfDocument();
+		
+		doc.loadFromFile(inputWord);
+		doc.saveToFile(outputFile, FileFormat.PDF);
+		doc.close();
+            
+        System.out.println("well done");
+    }
+}

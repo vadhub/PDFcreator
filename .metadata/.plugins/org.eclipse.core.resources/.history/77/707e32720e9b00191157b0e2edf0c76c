@@ -1,0 +1,32 @@
+package com.vg.pdf;
+
+import java.awt.image.BufferedImage;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+
+import com.itextpdf.awt.geom.AffineTransform;
+import com.itextpdf.awt.geom.Dimension;
+import com.itextpdf.text.Document;
+import com.itextpdf.text.Image;
+import com.itextpdf.text.pdf.PdfPTable;
+import com.itextpdf.text.pdf.PdfWriter;
+
+public class convertPPT {
+	public void PDFconvertor(String inputWord, String outputFile){
+		
+		 	FileInputStream inputStream = new FileInputStream(inputWord);
+		    double zoom = 2;
+		    AffineTransform at = new AffineTransform();
+		    at.setToScale(zoom, zoom);
+		    Document pdfDocument = new Document();
+		    PdfWriter pdfWriter = PdfWriter.getInstance(pdfDocument, new FileOutputStream(outputFile));
+		    PdfPTable table = new PdfPTable(1);
+		    pdfWriter.open();
+		    pdfDocument.open();
+		    Dimension pgsize = null;
+		    Image slideImage = null;
+		    BufferedImage img = null;
+            
+        System.out.println("well done");
+    }
+}

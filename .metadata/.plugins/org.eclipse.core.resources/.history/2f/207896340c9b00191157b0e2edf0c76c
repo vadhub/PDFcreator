@@ -1,0 +1,8 @@
+package com.vg.pdf;
+
+public class convertPPT {
+	public void PDFconvertor(String inputWord, String outputFile){            
+            
+            System.out.println("well done");
+    }
+}
