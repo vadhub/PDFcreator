@@ -9,9 +9,9 @@ import com.spire.pdf.PdfDocument;
 
 public class TextLayoutS extends PdfDocument{
 	@Override
-	public void saveToFile(String filename, FileFormat fileFormat) {
+	public void saveToFile(String filename,
+			FileFormat fileFormat) {
 		
 		super.saveToFile(filename, fileFormat);
 	}
-	
 }
